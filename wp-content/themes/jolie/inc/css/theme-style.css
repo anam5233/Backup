@@ -1,0 +1,44 @@
+header#masthead{
+	background:#2c86ba;
+}
+header#masthead div.site-branding{
+	text-align: center;
+	color:#fff;
+	padding:35px 0px;
+}
+header#masthead div.site-branding a:hover{
+	text-decoration: none;
+	color:#fff;
+}
+header#masthead div.site-branding div.title_box{
+	display: inline-block;
+	/*text-align: center;*/
+	border:solid 1px #fff;
+	padding:30px 30px;
+}
+header#masthead div.site-branding h1.site-title a{
+	text-decoration: none;
+	color:#fff;
+}
+header#masthead nav#site-navigation{
+	background:white;
+}
+.header-image img{
+	display: block;
+	margin:0 auto;
+	padding:0;
+}
+header#masthead .header-background-image {
+    background: no-repeat center;
+    background-size: cover!important;
+    -moz-background-size: cover!important;
+    -webkit-background-size: cover!important;
+}
+.header-image img{
+	width:100%;
+}
+
+.header-background-image .title_box {
+    background: #333;
+    background: hsla(0, 0%, 0%, .7);
+}  
